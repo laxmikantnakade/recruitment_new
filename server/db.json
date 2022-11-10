@@ -1,0 +1,8 @@
+{
+    "registration":
+    [
+        {"fname":"Laxmikant", "lname":"Nakade", "email":"laxmikant004@gmail.com", "contactno":"9840563577", "address":"Mumbai", "tag": "Criket"},
+        {"fname":"Mayur", "lname":"Kukarni", "email":"kularni05@gmail.com", "contactno":"8952458536", "address":"Pune", "tag": "Criket"},
+        {"fname":"Rahul", "lname":"Dabhade", "email":"rahuldabhade@gmail.com", "contactno":"8856358695", "address":"Dombivali", "tag": "Football"}
+    ]
+}
